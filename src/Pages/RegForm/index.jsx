@@ -18,7 +18,7 @@ const RegForm = () => {
   return (
     <>
       <Container fixed>
-        <h1 className="header">React Hook Form Validations third</h1>
+        <h1 className="header">React Hook Form Validations forth</h1>
         <form onSubmit={handleSubmit(onSubmit)}>
           <Grid container spacing={2}>
             <Grid item xs={6}>
